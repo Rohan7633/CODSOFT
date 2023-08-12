@@ -3,14 +3,13 @@ this includes total of three tasks which includes ===>> Landing page, Portfolio,
 (Ohter technologies used will be update)
 
 
-LEVEL 1
+LEVEL 1 (Task-1)
 
 A landing page is an ideal web development project for beginners. It requires basic
 knowledge of HTML and CSS. Through this project, you'll learn to create columns, divide
 sections, arrange items, and add headers and footers. The most important aspect is
 unleashing your creativity to design an impressive page. Pay attention to alignments,
 padding, color palette, boxes, and other elements. Be mindful of CSS to avoid overlapping
-
 elements. In short, a landing page project allows you to apply HTML and CSS skills,
 encouraging your creativity while ensuring a visually appealing and user-friendly design.
 
@@ -18,7 +17,7 @@ LANDING PAGE
 
 _______________________________________________________________________________________________________________
 
-LEVEL 1 TASK 2
+LEVEL 1 (TASK-2)
 
 Creating a personal portfolio using CSS and HTML is a popular beginner web development
 
@@ -37,9 +36,7 @@ Include project titles, descriptions, and images.
 
 Resume Section: Provide a link to download your resume in PDF format.
 
-Contact Section: Include your contact information, such as email address and phone
-
-number.
+Contact Section: Include your contact information, such as email address and phone number.
 
 Footer: Add a copyright notice and any additional links or information.
 
@@ -47,7 +44,7 @@ PORTFOLIO
 
 __________________________________________________________________________________________________________
 
-LEVEL 1 TASK 3
+LEVEL 1 (TASK-3)
 
 To create a basic calculator using CSS, HTML, and JavaScript, you'll need to implement an
 interactive interface with buttons for addition, subtraction, multiplication, and division
