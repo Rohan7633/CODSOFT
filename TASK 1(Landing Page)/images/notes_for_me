@@ -5,3 +5,8 @@ digital(2).svg image is added as shortcut icon
 hero-banner.png image is added as preloaded images,  [both are included in header tags]
 
 hero.png is added tolook cool in hero banner class.
+
+devloped code for services and need to attach some images in place of servces.total 7 services class.
+in div of class name class="service cared" src="./images/service-icon-_.png"
+
+needed to add some services.png images and write css codes for them to have a better look.
