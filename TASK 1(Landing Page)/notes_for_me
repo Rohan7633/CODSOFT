@@ -25,4 +25,11 @@ needed to add images for features
                                 alt="feature banner"
                             >
 added for details in class="feature banner" of div class="container"
-        
+
+
+project images include: ./images/book.png
+                        ./images/art.png
+                        ./images/a.png
+                        ./images/website.png
+                        ./images/mobile.png
+                        class="card-banner img-holder" in div class="project-card"
