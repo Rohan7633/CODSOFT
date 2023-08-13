@@ -33,3 +33,15 @@ project images include: ./images/book.png
                         ./images/website.png
                         ./images/mobile.png
                         class="card-banner img-holder" in div class="project-card"
+
+done my work till newsletter 
+
+remaing work for :  BLOG
+                    footer
+                    back to top button
+                    media queries
+                    resposive design @media for diff sizes
+                    ion icons link
+                    importing js
+                    
+
