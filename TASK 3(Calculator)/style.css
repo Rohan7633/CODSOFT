@@ -116,3 +116,36 @@ button:active {
     background-color: #f1f5f9;
     color:  #333333;
 }
+
+.operation:hover {
+    background-color: #e2e8f0;
+}
+
+.backspace {
+    grid-column: span 2;
+}
+
+.equal {
+    grid-column: span 2;
+    background-color: #ff9f00;
+    color: white;
+}
+
+.equal:hover {
+    background-color: #ff7c00;
+}
+
+.calculator-animation {
+    animation: slideIn 0.4s ease-in-out;
+}
+
+@keyframes slideIn {
+    0% {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
