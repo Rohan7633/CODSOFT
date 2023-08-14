@@ -45,3 +45,18 @@ remaing work for :  BLOG
                     importing js
                     
 
+_____________________________________________________
+task3 (calculator)
+created pages as: index.html, style.css, main.js
+plan is to :    including scripts
+                button for every no. in calculator
+                plus extra button
+                including javascript for working of calculator (done)
+                in css:
+                        decide margin
+                        animation
+                        button properties
+                        @keyframes
+                in js:
+                        use functions for operators, decimals, calculate function.
+                        
