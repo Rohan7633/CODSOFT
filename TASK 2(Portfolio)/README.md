@@ -12,7 +12,7 @@ follow and like my posts on Linkedin
 
 ## Other projects
 
-📚 [All Web Cifar Project Tutorials](https://github.com/Deathwear/CODSOFT)
+📚 [All CODSOFT Project Tutorials](https://github.com/Deathwear/CODSOFT)
   
 
 
